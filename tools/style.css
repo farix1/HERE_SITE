@@ -1,0 +1,47 @@
+::selection{
+    background-color: rgb(0, 255, 115);
+}
+
+
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgreen;
+}
+
+h1.wl-tools{
+    color: darkgreen;
+    margin-left: 35%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p.music{
+    color: black;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    width: 250px;
+    height: 120px;
+    padding: 5px;
+    border: solid green ;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-top: 120px;
+}
+
+p.music:hover{
+    color: green;
+    border: black solid ;
+    transform: scale(1.1);
+    transition: .8s;
+}
+
+p.music a{
+    color: green;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+p.music a:hover{
+    border-bottom: solid black 3px;
+
+}

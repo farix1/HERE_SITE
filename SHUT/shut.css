@@ -1,0 +1,13 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+
+div.acc-data1{
+    width: 225px;
+    font-size: 18px;
+}
+
+h1.title-data1{
+    color: blue; 
+}
